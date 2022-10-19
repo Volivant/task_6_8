@@ -1,0 +1,15 @@
+#buttonSend {
+    font-weight: 500;
+    color: white;
+    text-decoration: none;
+    padding: .8em 1em calc(.8em + 3px);
+    border-radius: 3px;
+    background: #4f4fd9;
+    box-shadow: 0 -3px #4f4fca inset;
+    transition: 0.2s;
+  } 
+  #buttonSend:hover { background:  #1414df; }
+  #buttonSend:active {
+    background:  #090974;
+    box-shadow: 0 3px #090974 inset;
+  }
